@@ -1,0 +1,19 @@
+{
+  "name": "sequelize_stretch_3",
+  "version": "1.0.0",
+  "description": "One to Many relationships",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:watch": "./node_modules/.bin/jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.2.1",
+    "sequelize": "^5.21.13"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
